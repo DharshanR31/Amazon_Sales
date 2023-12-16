@@ -1,4 +1,4 @@
-# Amazon-Sales-
+# Amazon Sales
 Amazon Sales EDA
 
 # Introduction
